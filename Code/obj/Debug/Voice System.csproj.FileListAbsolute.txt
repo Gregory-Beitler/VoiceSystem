@@ -1,0 +1,11 @@
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\bin\Debug\Voice System.exe.config
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\bin\Debug\Voice System.exe
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\bin\Debug\Voice System.pdb
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\obj\Debug\Voice System.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\obj\Debug\Voice_System.Form1.resources
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\obj\Debug\Voice_System.Properties.Resources.resources
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\obj\Debug\Voice System.csproj.GenerateResource.Cache
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\obj\Debug\Voice System.exe
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\obj\Debug\Voice System.pdb
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\obj\Debug\Voice_System.Form2.resources
+C:\Users\Greg\Desktop\My Workspace\Voice System\Voice System\obj\Debug\Voice_System.AboutBox1.resources
